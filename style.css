@@ -1,0 +1,151 @@
+html, body{
+    background-color: rgb(0, 0, 0);
+    height: 100%;
+    margin: 10px;
+}
+.container > div{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 2em;
+}
+.container > div:nth-child(1n){
+    background-color: aqua;
+}
+.container > div:nth-child(2n){
+    background-color: rgb(0, 255, 76);
+}
+.container > div:nth-child(3n){
+    background-color: rgb(255, 238, 0);
+}
+.container > div:nth-child(4n){
+    background-color: rgb(255, 38, 0);
+}
+.container > div:nth-child(5n){
+    background-color: rgb(0, 68, 255);
+}
+.container > div:nth-child(5n){
+    background-color: rgba(9, 255, 0, 0.527);
+}
+.container > div:nth-child(5n){
+    background-color: rgb(3, 127, 243);
+}
+.container > div:nth-child(5n){
+    background-color: rgb(234, 0, 255);
+}
+.container > div:nth-child(5n){
+    background-color: rgb(255, 0, 34);
+}
+.container > div:nth-child(5n){
+    background-color: rgb(123, 252, 63);
+}
+.con>div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 2em;
+}
+
+.con>div:nth-child(1n){
+    background-color: rgb(226, 147, 43);
+}
+.con>div:nth-child(2n){
+    background-color: rgb(165, 154, 3);
+}
+.con>div:nth-child(3n){
+    background-color: rgb(186, 226, 43);
+}
+.con>div:nth-child(4n){
+    background-color: rgb(43, 226, 104);
+}
+
+.new>div:nth-child(1n){
+    background-color: chartreuse;
+}
+.new>div:nth-child(2n){
+    background-color: crimson;
+}
+.new>div:nth-child(3n){
+    background-color: rgb(34, 148, 255);
+}
+.new>div:nth-child(4n){
+    background-color: navajowhite;
+}
+.new>div{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 2em
+}
+.nw>div{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 2em;
+}
+.nw>div:nth-child(1n){
+    background-color: burlywood;
+}
+.nw>div:nth-child(2n){
+    background-color: cadetblue;
+}
+.nw>div:nth-child(3n){
+    background-color: coral;
+}
+.nw>div:nth-child(4n){
+    background-color: cyan;
+}
+.nw>div:nth-child(5n){
+    background-color: rgb(131, 235, 200);
+}
+.nw>div:nth-child(6n){
+    background-color: rgb(151, 199, 73);
+}
+.nw>div:nth-child(7n){
+    background-color: rgb(153, 102, 177);
+}
+.nw>div:nth-child(8n){
+    background-color: rgb(147, 238, 0);
+}
+.nw>div:nth-child(9n){
+    background-color: rgb(65, 38, 59);
+}
+.nw>div:nth-child(10n){
+    background-color: rgb(202, 81, 0);
+}
+.controlar>div{
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: top;
+    color: white;
+    font-size: 20px;
+}
+.controlar>div:nth-child(1n){
+    background-color: rgb(228, 6, 6);
+}
+.controlar>div:nth-child(2n){
+    background-color: rgb(17, 226, 28);
+}
+.controlar>div:nth-child(3n){
+    background-color: rgb(12, 128, 236);
+}
+.controlar>div:nth-child(4n){
+    background-color: rgb(0, 36, 238);
+}
+.controlar>div:nth-child(5n){
+    background-color: rgb(0, 0, 0);
+}
+.controlar>div:nth-child(6n){
+    background-color:rgb(211, 155,0);
+}
+.controlar>div:nth-child(7n){
+    background-color: rgb(0, 233, 250);
+}
+
+
+
+
+
+
